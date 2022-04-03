@@ -1,0 +1,13 @@
+.DS_Store/
+.vs/
+
+AndroidLiTrBinding/.DS_Store/
+AndroidLiTrBinding/.vs/
+
+AndroidLiTrBinding/Xam.Android.LiTr/.DS_Store/
+
+AndroidLiTrBinding/Xam.Android.LiTr/bin/
+AndroidLiTrBinding/Xam.Android.LiTr/obj/
+
+*.jar
+*.aar

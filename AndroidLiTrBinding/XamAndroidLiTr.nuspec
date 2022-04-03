@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>Xam.Android.LiTr</id>
+    <version>1.5.0</version>
+    <title>Xam.Android.LiTr</title>
+    <authors>Giuseppe Novielli, linkedin</authors>
+    <owners>Giuseppe Novielli</owners>
+   <license type="file">LICENSE</license>
+    <projectUrl>https://github.com/giuseppenovielli/Xam.IQKeyboardManager</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android Binding of linkedin.LiTr library https://github.com/linkedin/LiTr by Giuseppe Novielli</description>
+    <releaseNotes>Sync Version to original library 1.5.0</releaseNotes>
+    <copyright>Copyright 2022 Giuseppe Novielli</copyright>
+    <tags>xamarin, xamarin.android, linkedin.litr, litr</tags>
+    <summary>Xamarin.Android Binding of linkedin.LiTr library https://github.com/linkedin/LiTr by Giuseppe Novielli</summary>
+    <dependencies>
+      <group targetFramework="MonoAndroid">
+          <dependency id="Xamarin.Kotlin.StdLib" version="1.4.32" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="LICENSE" />
+    <file src="Xam.Android.LiTr/bin/Release/Xam.Android.LiTr.dll" target="lib/Xamarin.iOS/XamIQKeyboardManager.dll" />
+	</files>
+</package>
