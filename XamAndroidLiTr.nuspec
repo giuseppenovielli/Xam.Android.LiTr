@@ -15,13 +15,13 @@
     <tags>xamarin, xamarin.android, linkedin.litr, litr</tags>
     <summary>Xamarin.Android Binding of linkedin.LiTr library https://github.com/linkedin/LiTr by Giuseppe Novielli</summary>
     <dependencies>
-      <group targetFramework="MonoAndroid">
+      <group targetFramework="MonoAndroid11">
           <dependency id="Xamarin.Kotlin.StdLib" version="1.4.32" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\LICENSE" />
-    <file src="AndroidLiTrBinding/Xam.Android.LiTr/bin/Release/Xam.Android.LiTr.dll" target="lib/Xamarin.Android/Xam.Android.LiTr.dll" />
+    <file src="LICENSE" />
+    <file src="AndroidLiTrBinding/Xam.Android.LiTr/bin/Release/Xam.Android.LiTr.dll" target="lib/MonoAndroid11/Xam.Android.LiTr.dll" />
 	</files>
 </package>
