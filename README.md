@@ -5,8 +5,6 @@ LiTr v1.5.0
 
 Documentation Available https://github.com/linkedin/LiTr
 
-Available NuGet TODO
-
 # How To use
 1.  Add nuget package https://www.nuget.org/packages/Xam.Android.LiTr/
 2.  Copy and paste follow code
