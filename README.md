@@ -8,6 +8,3 @@ Documentation Available https://github.com/linkedin/LiTr
 Available NuGet TODO
 
 # How To use
-              
-                  
-

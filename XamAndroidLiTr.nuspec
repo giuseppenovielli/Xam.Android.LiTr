@@ -2,15 +2,15 @@
 <package>
   <metadata>
     <id>Xam.Android.LiTr</id>
-    <version>1.5.0</version>
+    <version>1.5.1</version>
     <title>Xam.Android.LiTr</title>
     <authors>Giuseppe Novielli, linkedin</authors>
     <owners>Giuseppe Novielli</owners>
    <license type="file">LICENSE</license>
-    <projectUrl>https://github.com/linkedin/LiTr</projectUrl>
+    <projectUrl>https://github.com/giuseppenovielli/Xam.Android.LiTr</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Xamarin.Android Binding of linkedin.LiTr library https://github.com/linkedin/LiTr by Giuseppe Novielli</description>
-    <releaseNotes>Sync Version to original library 1.5.0</releaseNotes>
+    <releaseNotes>Sync Version to original library 1.5.1</releaseNotes>
     <copyright>Copyright 2022 Giuseppe Novielli</copyright>
     <tags>xamarin, xamarin.android, linkedin.litr, litr</tags>
     <summary>Xamarin.Android Binding of linkedin.LiTr library https://github.com/linkedin/LiTr by Giuseppe Novielli</summary>
